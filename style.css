@@ -8,3 +8,19 @@
   box-shadow: none;
   border: none;
 }
+
+.gray-background{
+  background-color: #292929;
+  height: 200px;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.ui.list{
+  color: white;
+}
+
+.ui.divider{
+  color: white;
+}
